@@ -1,3 +1,12 @@
 Tons of free python books https://github.com/pamoroso/free-python-books
 Download Vscode
 Learn
+
+Lesson 1
+How to - basics
+
+lesson 2 
+How to - libraries 
+
+lesson 3 
+How to - code 
